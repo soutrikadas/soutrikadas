@@ -1,9 +1,19 @@
 <h1 align="center">Hi 👋, I'm Soutrika Das</h1>
 <h3 align="center">CEO of Sprint Tech Academy | Front-End Developer | Undergrad at TIU</h3>
+
+<br>
+
 <div align="center">
   <h4>V I S I T O R S :</h4>
   <img src="https://profile-counter.glitch.me/soutrikadas/count.svg?"  />
 </div>
+
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/soutrika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/soutrikadas" height="30" width="40" /></a>
+</p>
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
