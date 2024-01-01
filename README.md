@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soutrika Das</h1>
-<h3 align="center">CEO of Sprint Tech Academy | Front-End Developer | Undergrad at TIU</h3>
+<h3 align="center">CEO of Sprint Tech Academy | Front-End Developer</h3>
 
 <br>
 
