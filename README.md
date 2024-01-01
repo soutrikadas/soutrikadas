@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Soutrika Das</h1>
 <h3 align="center">CEO of Sprint Tech Academy | Front-End Developer | Undergrad at TIU</h3>
-<div> <a href="https://github.com/soutrikadas" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<div align="center">
+  <h4>V I S I T O R S :</h4>
+  <img src="https://profile-counter.glitch.me/soutrikadas/count.svg?"  />
+</div>
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
@@ -18,8 +21,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soutrikadas&layout=compact&theme=transparent" alt=soutrikadas />
+<h3 align="left">Stats:</h3>
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=soutrikadas&show_icons=true&locale=en&theme=transparent" alt="soutrikadas" /></p>
 
