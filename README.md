@@ -39,6 +39,6 @@
 
 <h3 align="center"> 📈 Statistics:</h3>
 
-<p>&nbsp;<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=soutrikadas&show_icons=true&locale=en&theme=transparent" alt="soutrikadas" /></p>
+<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=soutrikadas&show_icons=true&locale=en&theme=transparent" alt="soutrikadas" /></p>
 
 <p><img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=soutrikadas&theme=transparent" alt="soutrikadas" /></p>
