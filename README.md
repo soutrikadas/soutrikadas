@@ -20,7 +20,7 @@
 
 </div><h3 align="center">📝 Languages:</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40" &nbsp;&nbsp;/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
@@ -39,6 +39,5 @@
 
 <h3 align="center"> 📈 Statistics:</h3> <br>
 
-<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=soutrikadas&show_icons=true&locale=en&theme=transparent" alt="soutrikadas" /> 
-  <br> <br>
+<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=soutrikadas&show_icons=true&locale=en&theme=transparent" alt="soutrikadas" &nbsp;&nbsp;/> 
   <img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=soutrikadas&theme=transparent" alt="soutrikadas" /></p>
