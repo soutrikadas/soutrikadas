@@ -37,7 +37,7 @@
 
 <br>
 
-<h3 align="center"> 📈 Statistics:</h3>
+<h3 align="center"> 📈 Statistics:</h3> <br>
 
 <p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=soutrikadas&show_icons=true&locale=en&theme=transparent" alt="soutrikadas" /></p>
 
