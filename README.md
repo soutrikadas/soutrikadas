@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-  <h3>Profile Visits :</h3>
+  <h3> 🙋🏻‍♀️ Profile Visits :</h3>
   <img src="https://profile-counter.glitch.me/soutrikadas/count.svg?"  />
 </div>
 
