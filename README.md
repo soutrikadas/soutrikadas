@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Soutrika Das</h1>
+<h1 align="center">Hei👋, I'm Soutrika this side!</h1>
 <h3 align="center">CEO of Sprint Tech Academy | Front-End Developer</h3>
 
 <br>
 
 <div align="center">
-  <h4>V I S I T O R S :</h4>
+  <h4>Profile Visits :</h4>
   <img src="https://profile-counter.glitch.me/soutrikadas/count.svg?"  />
 </div>
 
