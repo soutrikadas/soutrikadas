@@ -1,4 +1,4 @@
-<h1 align="center">Hei there👋, Soutrika this side!</h1>
+<h1 align="center">Hei there👋 Soutrika this side!</h1>
 <h3 align="center">CEO of Sprint Tech Academy | Front-End Developer</h3>
 
 <br>
