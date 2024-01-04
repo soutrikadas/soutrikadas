@@ -20,7 +20,7 @@
 <br>
 
 
-</div><h3 align="center">📝 Languages:</h3>
+</div><h3 align="center">📝 Tools:</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40" /> &emsp;
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/> &emsp;
