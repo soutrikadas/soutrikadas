@@ -43,6 +43,6 @@
 
 <div>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=soutrikadas&show_icons=true&locale=en&theme=transparent" alt="soutrikadas"/>
-  <br>
+  <br> <br> <br>
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=soutrikadas&theme=transparent" alt="soutrikadas" />
 </div>
